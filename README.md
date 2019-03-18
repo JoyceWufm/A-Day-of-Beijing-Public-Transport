@@ -16,8 +16,8 @@ Spatial Visualisation Group Project
 - Project Applications:   
 [Run it directly](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/tree/master/Applications)  
 
-Please unzip the data into data folder for R and Processing, ensuring the folder link is as follow:  
-*\data\Geolife Trajectories 1.3\Data\000\Trajectory  
+_NOTE:Please unzip the data into data folder for R and Processing, ensuring the folder link is as follow:  
+*\data\Geolife Trajectories 1.3\Data\000\Trajectory_  
 
 
 
