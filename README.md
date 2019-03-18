@@ -7,7 +7,7 @@ Spatial Visualisation Group Project
 
 ### Project design:
 - R: data preprocessing
-- Processing: data visualization
+- Processing: data visualization  
 [Project Design Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Design%20report.pdf)  
 [Project Pattern Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Pattern%20report.pdf)  
 
