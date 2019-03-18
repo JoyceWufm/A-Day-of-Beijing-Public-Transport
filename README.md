@@ -6,8 +6,8 @@ Spatial Visualisation Group Project
 <img src="Capture.PNG" alt="" style="float: left; margin-right: 10px;" />  
 
 ### Project design:
-- R: data preprocessing
-- Processing: data visualization  
+- R: [data preprocessing](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/R_Data%20Pre-processing.zip)  
+- Processing: [data visualization](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Processing_Interface.zip)    
 [Project Design Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Design%20report.pdf)  
 [Project Pattern Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Pattern%20report.pdf)  
 
