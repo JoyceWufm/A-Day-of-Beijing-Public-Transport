@@ -1,4 +1,4 @@
-# Spatial-visualisation
+# A Day of Beijing Public Transport
 Spatial Visualisation Group Project  
 
 ### Program video:  
