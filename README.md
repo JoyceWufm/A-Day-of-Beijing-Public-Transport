@@ -11,9 +11,12 @@ Spatial Visualisation Group Project
 - Reports:  
 [Project Design Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Design%20report.pdf)  
 [Project Pattern Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Pattern%20report.pdf)  
+- Project Applications: [Run it directly](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/tree/master/Applications)  
 
 Please unzip the data into data folder for R and Processing, ensuring the folder link is as follow:  
 *\data\Geolife Trajectories 1.3\Data\000\Trajectory  
+
+
 
 ### References:
 Thanks to team members: Haoyu PANG, Cheng LI, Kaiming SUN  
