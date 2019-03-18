@@ -1,7 +1,7 @@
 # Spatial-visualisation
 Spatial Visualisation Group Project 
 
-Thanks to team members: Haoyu PANG, Cheng LI, Kaiming SUN
+Thanks to team members: Haoyu PANG, Cheng LI, Kaiming SUN  
 
 <img src="Capture.png" alt="" style="float: left; margin-right: 10px;" />  
 
