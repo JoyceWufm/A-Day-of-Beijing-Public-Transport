@@ -6,12 +6,15 @@ Spatial Visualisation Group Project
 <img src="Capture.PNG" alt="" style="float: left; margin-right: 10px;" />  
 
 ### Project design:
-- R: [data preprocessing](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/R_Data%20Pre-processing.zip)  
-- Processing: [data visualization](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Processing_Interface.zip)    
+- R:   
+[Data Preprocessing](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/R_Data%20Pre-processing.zip)  
+- Processing:   
+[Data Visualization](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Processing_Interface.zip)    
 - Reports:  
 [Project Design Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Design%20report.pdf)  
 [Project Pattern Report](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/blob/master/Reports/Pattern%20report.pdf)  
-- Project Applications: [Run it directly](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/tree/master/Applications)  
+- Project Applications:   
+[Run it directly](https://github.com/JoyceWufm/A-Day-of-Beijing-Public-Transport/tree/master/Applications)  
 
 Please unzip the data into data folder for R and Processing, ensuring the folder link is as follow:  
 *\data\Geolife Trajectories 1.3\Data\000\Trajectory  
