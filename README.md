@@ -3,7 +3,7 @@ Spatial Visualisation Group Project
 
 Thanks to team members: Haoyu PANG, Cheng LI, Kaiming SUN
 
-<img src="Capture.png" alt="" style="float: left; margin-right: 10px; width:720px;height:412px;" />
+<img src="Capture.png" alt="" style="float: left; margin-right: 10px;" />  
 
 Please unzip the data into data folder for R and Processing, ensuring the folder link is as follow:
 *\data\Geolife Trajectories 1.3\Data\000\Trajectory
